@@ -3,5 +3,5 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/userinfo?useSSL=false
     type: com.zaxxer.hikari.HikariDataSource
-    username: '{cipher}4ebef4f28d7e3cf65469503b51232e98d255f36c6ecc44edbfb539a4598301a0'
-    password: '{cipher}d561586214dc3cf04fe51f8c15a60658787a7b0287691220fe09e4b9055273d3'
+    username: '{cipher}ef20904deb99251af84568b9a585ea96cebc724f60ac70c31525ba596e540490'
+    password: '{cipher}2942ed948b9319efdeca3822deca98f11d94a5d72beab139854db0240a79c4d3'
